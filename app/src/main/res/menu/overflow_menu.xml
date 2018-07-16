@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/activity1"
+        android:icon="@drawable/tasking"
+        android:onClick="onActivityManage"
+        android:title="AsyncTks"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/activity2"
+        android:icon="@drawable/showing_profile"
+        android:onClick="onActivityManage"
+        android:title="EMI"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/activity3"
+        android:icon="@drawable/dekulink"
+        android:onClick="onActivityManage"
+        android:title="AddPeople"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

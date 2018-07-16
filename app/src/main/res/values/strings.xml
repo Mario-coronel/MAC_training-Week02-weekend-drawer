@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hobbies">hobbies</string>
+    <string name="others">others</string>
+    <string name="profile_image">profileImage</string>
+    <string name="date_of_birth">dateOfBirth</string>
+    <string name="education">education</string>
+    <string name="experience">experience</string>
+</resources>
